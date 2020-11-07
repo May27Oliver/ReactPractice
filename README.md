@@ -1,3 +1,7 @@
+20201107 購買Hiskio線上課程：React 16完全精通
+
+希望在2020年年底能學會React這個框架！！
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
