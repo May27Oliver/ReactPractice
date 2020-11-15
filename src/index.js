@@ -4,6 +4,6 @@ import ReactDOM from 'react-dom'; //reactDOM，把react掛載到DOM上用的
 // import Parent from './imgShowHide/demo'
 // import Progress from './ComponentThreeType/progress'
 // import App from './infoCardPrac/app';
-import App from './HOC/App'
+import App from './HOC3/App'
 
 ReactDOM.render(<App/>,document.getElementById('root'));
