@@ -1,0 +1,1 @@
+1.當Component與Component之間有重複動作時，就可以使用HOC
