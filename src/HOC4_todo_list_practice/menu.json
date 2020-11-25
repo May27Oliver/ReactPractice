@@ -1,0 +1,32 @@
+{
+    "menu":[
+        {
+            "main course":"牛排",
+            "drink":"雞尾酒",
+            "dessert":"果凍",
+            "diet":"可頌麵包",
+            "price":"400"
+        },
+        {
+            "main course":"青醬義大利麵",
+            "drink":"紅茶",
+            "dessert":"蛋糕",
+            "diet":"生菜沙拉",
+            "price":"200"
+        },
+        {
+            "main course":"爌肉飯",
+            "drink":"貢丸湯",
+            "dessert":"蚵仔煎",
+            "diet":"白菜滷",
+            "price":"100"
+        },
+        {
+            "main course":"豚骨拉麵",
+            "drink":"清酒",
+            "dessert":"溏心蛋",
+            "diet":"手卷",
+            "price":"300"
+        }
+    ]
+}
