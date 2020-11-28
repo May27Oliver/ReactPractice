@@ -26,13 +26,18 @@ const Descript = styled.h5`
     letter-spacing:1px;
     font-family:'微軟正黑體';
 `
+const ImageInnerBox = styled.img`
+    margin-top:10%
+`
 
 class Course extends Component {
     render() {
         const {title,image,headline,...props} = this.props;
         return (
             <CourseCard>
-                <img src={image} width='250px'></img>
+                <div>
+                   <ImageInnerBox src={image} width='250px'></ImageInnerBox> 
+                </div>
                 <WordsCard>
                     <CardTitle>{title}</CardTitle>
                     <Descript>{headline}</Descript>
